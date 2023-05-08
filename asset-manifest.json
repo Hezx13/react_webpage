@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/react_webpage/static/css/main.2942e457.css",
+    "main.js": "/react_webpage/static/js/main.2c6dbaaf.js",
+    "static/media/videoBg.mp4": "/react_webpage/static/media/videoBg.5d891683f7601dd9ead5.mp4",
+    "static/media/i_editor.gif": "/react_webpage/static/media/i_editor.a7804dd146f1872e659b.gif",
+    "static/media/screens.png": "/react_webpage/static/media/screens.90638e03b0a99896638a.png",
+    "static/media/i_liveedit.gif": "/react_webpage/static/media/i_liveedit.46ee2300476b211e8be4.gif",
+    "static/media/heroImage.png": "/react_webpage/static/media/heroImage.36c89cf1afb263207065.png",
+    "static/media/i_admin.png": "/react_webpage/static/media/i_admin.14eb8a4df799c1454d7a.png",
+    "static/media/bg.png": "/react_webpage/static/media/bg.341d118ea4369cb161cd.png",
+    "static/media/google.png": "/react_webpage/static/media/google.7aee7453c2ad36a9cfa4.png",
+    "static/media/g_cost.png": "/react_webpage/static/media/g_cost.69b04017d909b419f5b7.png",
+    "static/media/b_logo.png": "/react_webpage/static/media/b_logo.3fd5d2acfc94cddba3e2.png",
+    "static/media/g_cloud.png": "/react_webpage/static/media/g_cloud.29ee39f984a0d2e83258.png",
+    "static/media/facebook.png": "/react_webpage/static/media/facebook.41de89c5f9e26b2bdc60.png",
+    "static/media/person.png": "/react_webpage/static/media/person.670496cfaab7c66270d4.png",
+    "static/media/amazon.png": "/react_webpage/static/media/amazon.925aad3ced91219ae8cc.png",
+    "static/media/g_speed.png": "/react_webpage/static/media/g_speed.55f003d9c14b37062870.png",
+    "index.html": "/react_webpage/index.html",
+    "main.2942e457.css.map": "/react_webpage/static/css/main.2942e457.css.map",
+    "main.2c6dbaaf.js.map": "/react_webpage/static/js/main.2c6dbaaf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2942e457.css",
+    "static/js/main.2c6dbaaf.js"
+  ]
+}
