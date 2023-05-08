@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="BG" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 900 450">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="75.14" y1="-89.55" x2="824.86" y2="539.55" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#212221"/>
+      <stop offset=".82" stop-color="#1b1c1b"/>
+      <stop offset="1" stop-color="#1a1a19"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="855.1" y1="54.01" x2="420.94" y2="571.43" xlink:href="#linear-gradient"/>
+  </defs>
+  <rect class="cls-2" width="900" height="450"/>
+  <path class="cls-1" d="m276.23,450s-30.39-264.04,148.4-243.47c178.79,20.58,171.58-56.78,257.15-97.3,0,0,108.59-57.45,218.22-17.55v358.31H276.23Z"/>
+</svg>

@@ -1,0 +1,42 @@
+.computer-empty {
+    overflow: hidden;
+    position: relative;
+    width: 540px;
+}
+.computer-screen {
+    overflow: hidden;
+    position: absolute;
+    height: 247px;
+    width: 445px;
+    left: 50px;
+    top: 20px;
+}
+.screen-landing {
+    left: 0;
+    line-height: 0;
+    position: relative;
+    width: 100%;
+    transition: all 6s;
+    -o-transition: all 6s;
+    -ms-transition: all 6s;
+    -moz-transition: all 6s;
+    -webkit-transition: all 6s;
+}
+.screen-landing:hover {
+    cursor: pointer;
+    margin-top: -100%;
+}
+img {
+    max-width: 100vw;
+    width: auto;
+    height: auto;
+    vertical-align: middle;
+    border: 0;
+}
+.computer-empty img.computer {
+    width: 100%;
+}
+
+@media only screen and (max-width: 540px) {
+    
+}
